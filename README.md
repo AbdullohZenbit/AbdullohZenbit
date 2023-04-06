@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbdullohZenbit
 - 👀 I’m interested in React Typescript
 - 🌱 I’m currently learning Typescript
-- 📫 How to reach me adbullohjonirgashev@gmail.com
+- 📫 How to reach me abdullohjonirgashev@gmail.com
 
 <!---
 AbdullohZenbit/AbdullohZenbit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
